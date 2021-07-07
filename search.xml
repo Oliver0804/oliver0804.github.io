@@ -40,23 +40,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Markdown test page</title>
+    <title>test</title>
     <url>/2021/07/07/test/</url>
-    <content><![CDATA[<h1><span id="markdown-ce-shi-wen-jian">Markdown測試文件</span><a href="#markdown-ce-shi-wen-jian" class="header-anchor">#</a></h1><h2><span id="shi-yong-typora123">使用Typora123</span><a href="#shi-yong-typora123" class="header-anchor">#</a></h2><hr>
-<ul>
-<li><em>斜體使用</em> *</li>
-<li><strong>粗體</strong> **</li>
-<li><em><strong>test</strong></em> ***</li>
-<li><a href="www.google.com">link</a></li>
-<li></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Demo</category>
-      </categories>
-      <tags>
-        <tag>Demo</tag>
-      </tags>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Markdown test page(copy)</title>
@@ -88,5 +74,10 @@
       <tags>
         <tag>Demo</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>about_me</title>
+    <url>/2021/07/07/about-me/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
