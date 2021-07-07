@@ -4,7 +4,11 @@
     <title>My New Post</title>
     <url>/2021/07/07/My-New-Post/</url>
     <content><![CDATA[<h1><span id="mdyu-fa-ce-shi">ＭＤ語法測試</span><a href="#mdyu-fa-ce-shi" class="header-anchor">#</a></h1><hr>
+<p>tag: test_tag</p>
 ]]></content>
+      <tags>
+        <tag>Demo</tag>
+      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
