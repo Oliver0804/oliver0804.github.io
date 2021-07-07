@@ -35,7 +35,58 @@
       <tags>
         <tag>Demo</tag>
         <tag>Hexo</tag>
+        <tag>Test</tag>
         <tag>next</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown test page</title>
+    <url>/2021/07/07/test/</url>
+    <content><![CDATA[<h1><span id="markdown-ce-shi-wen-jian">Markdown測試文件</span><a href="#markdown-ce-shi-wen-jian" class="header-anchor">#</a></h1><h2><span id="shi-yong-typora123">使用Typora123</span><a href="#shi-yong-typora123" class="header-anchor">#</a></h2><hr>
+<ul>
+<li><em>斜體使用</em> *</li>
+<li><strong>粗體</strong> **</li>
+<li><em><strong>test</strong></em> ***</li>
+<li><a href="www.google.com">link</a></li>
+<li></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Demo</category>
+      </categories>
+      <tags>
+        <tag>Demo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Markdown test page(copy)</title>
+    <url>/2021/07/10/test%20(copy)/</url>
+    <content><![CDATA[<h1><span id="markdown-ce-shi-wen-jian">Markdown測試文件</span><a href="#markdown-ce-shi-wen-jian" class="header-anchor">#</a></h1><h2><span id="shi-yong-typora">使用Typora</span><a href="#shi-yong-typora" class="header-anchor">#</a></h2><hr>
+<hr>
+<h2><span id="demo">Demo</span><a href="#demo" class="header-anchor">#</a></h2><h3><span id="di-san-ji">第三集</span><a href="#di-san-ji" class="header-anchor">#</a></h3><hr>
+<ul>
+<li><em>斜體使用</em> *</li>
+<li><strong>粗體</strong> **</li>
+<li><em><strong>test</strong></em> ***</li>
+<li><a href="www.google.com">link</a></li>
+</ul>
+<p>![Alt描述](../image/Screen Shot 2021-07-07 at 4.23.04 PM.png)</p>
+<h1><span id="toc-testing">TOC testing</span><a href="#toc-testing" class="header-anchor">#</a></h1><h2><span id="nothing">nothing</span><a href="#nothing" class="header-anchor">#</a></h2><h3><span id="3th">3th</span><a href="#3th" class="header-anchor">#</a></h3><ul>
+<li>ha?</li>
+<li></li>
+</ul>
+<ol>
+<li>ok</li>
+<li>ok</li>
+<li>ok</li>
+<li></li>
+</ol>
+]]></content>
+      <categories>
+        <category>Demo</category>
+      </categories>
+      <tags>
+        <tag>Demo</tag>
       </tags>
   </entry>
 </search>
